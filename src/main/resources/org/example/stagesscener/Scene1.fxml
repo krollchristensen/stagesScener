@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="org.example.stagesscener.Scene1Controller">
+    <Button text="Gå til Scene 2" layoutX="100" layoutY="100" onAction="#switchToScene2"/>
+</AnchorPane>
